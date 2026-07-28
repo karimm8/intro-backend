@@ -1,0 +1,20 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "a tutorial for is in the intro backend",
+  "homepage": "https://github.com/karimm8/intro-backend#readme",
+  "bugs": {
+    "url": "https://github.com/karimm8/intro-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimm8/intro-backend.git"
+  },
+  "license": "ISC",
+  "author": "karim",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
